@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://MEERHADI-KHAN.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://MEERHADI-KHAN.github.io/"><img title="Made in Pk" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
 <a href="https://MEERHADI-KHAN.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.5-green.svg?style=flat-square"></a>
 
@@ -8,7 +8,7 @@
   &nbsp;   ASLAM    Alikum    &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-![boysdpz_c4663e3_1656850427534_sc_cmprsd_75](https://user-images.githubusercontent.com/114737357/196397178-9b25dc90-22fb-4a00-8093-2905c06b034d.jpg)
+![boysdpz_c4663e3_1656850427534_sc_cmprsd_75](https://user-images.githubusercontent.com/114737357/196397178-9b25dc90-22fb-
 
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
